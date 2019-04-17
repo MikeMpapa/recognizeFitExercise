@@ -1,3 +1,5 @@
+### Publication
+
 @inproceedings{papakostas2017fitness,
   title={A Fitness Monitoring System based on Fusion of Visual and Sensorial Information},
   author={Papakostas, Michalis and Giannakopoulos, Theodore and Karkaletsis, Vangelis},
@@ -38,6 +40,8 @@ python accelerometer.py classifier Accelerometer\ Data/ 4 0
 ```
 python accelerometer.py classifier Accelerometer\ Data/ 0 1
 ```
+
+### Publication
 
 @inproceedings{papakostas2017fitness,
   title={A Fitness Monitoring System based on Fusion of Visual and Sensorial Information},
