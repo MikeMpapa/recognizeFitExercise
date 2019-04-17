@@ -39,6 +39,13 @@ python accelerometer.py classifier Accelerometer\ Data/ 4 0
 ## Evaluate camera-only classification
 ```
 python accelerometer.py classifier Accelerometer\ Data/ 0 1
+
+
+## Evaluate fusion classification
+```
+python accelerometer.py classifier Accelerometer\ Data/ 4 1
+```
+
 ```
 
 ### Publication
@@ -52,8 +59,3 @@ python accelerometer.py classifier Accelerometer\ Data/ 0 1
   organization={ACM}
 }
 
-
-## Evaluate fusion classification
-```
-python accelerometer.py classifier Accelerometer\ Data/ 4 1
-```
