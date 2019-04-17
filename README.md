@@ -1,3 +1,16 @@
+### Publication
+
+@inproceedings{papakostas2017fitness,
+  title={A Fitness Monitoring System based on Fusion of Visual and Sensorial Information},
+  author={Papakostas, Michalis and Giannakopoulos, Theodore and Karkaletsis, Vangelis},
+  booktitle={Proceedings of the 10th International Conference on PErvasive Technologies Related to Assistive Environments},
+  pages={280--285},
+  year={2017},
+  organization={ACM}
+}
+
+
+
 # recognizeFitExercise
 Classification of fitness exercises based on accelerometer and camera information
 
@@ -34,3 +47,14 @@ python accelerometer.py classifier Accelerometer\ Data/ 0 1
 ```
 python accelerometer.py classifier Accelerometer\ Data/ 4 1
 ```
+
+### Publication
+
+@inproceedings{papakostas2017fitness,
+  title={A Fitness Monitoring System based on Fusion of Visual and Sensorial Information},
+  author={Papakostas, Michalis and Giannakopoulos, Theodore and Karkaletsis, Vangelis},
+  booktitle={Proceedings of the 10th International Conference on PErvasive Technologies Related to Assistive Environments},
+  pages={280--285},
+  year={2017},
+  organization={ACM}
+}
